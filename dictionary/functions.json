@@ -1,0 +1,21 @@
+{
+    "names": [
+        "arcsin",
+        "arccos",
+        "arctan",
+        "arccot",
+        "sinh",
+        "cosh",
+        "tanh",
+        "coth",
+        "sinc",
+        "sin",
+        "cos",
+        "tan",
+        "cot",
+        "sec",
+        "csc",
+        "min",
+        "max"
+    ]
+}
